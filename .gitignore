@@ -1,6 +1,9 @@
 # Environment variables
 .env
 
+# Output files (user data)
+playlists.json
+
 # Python
 __pycache__/
 *.py[cod]
